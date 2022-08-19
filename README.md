@@ -7,7 +7,6 @@
 -  🍓I’m currently learning node and webpack  
   
 
-- 🍭 You can visit my personal website www.zhaohui.life  
   
 
 <br/>  
