@@ -1,13 +1,4 @@
-###   Hi there  
-  
 
-- 💪 I’m currently studying for a master's degree  
-  
-
--  🍓I’m currently learning node and webpack  
-  
-
-  
 
 <br/>  
 
